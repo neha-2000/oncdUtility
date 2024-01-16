@@ -39,10 +39,12 @@ export interface IsSignatureValid {
   publicKey: string;
 }
 export interface ICreateAuthorizationHeader {
-  message: GenericObject;
+  body: GenericObject;
   privateKey: string;
-  bapId: string;
-  bapUniqueKeyId: string;
+  // bapId: string;
+  // bapUniqueKeyId: string;
   expires?: string;
   created?: string;
+  subscriberId:string;
+  subscriberUniqueKeyId:string;
 }
