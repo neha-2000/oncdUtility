@@ -483,18 +483,18 @@ export const  exportmessage = {
 };
 
 export const privateKey ="a5zQle58BU5/7qxERzjeGONLBgg0sWFVZgq+GQuw2VcVW5/0IDz8POZSIlOwJC1CKNgKcp03U+7at5szuHkMhw==";
-
+  
 export const publicKey ="lPetySkn0oCUkj02pq3Hk7iNtM8/+Hf+V7jJwOcKHSk="
-
+  
 export const publicKey2 ="FVuf9CA8/DzmUiJTsCQtQijYCnKdN1Pu2rebM7h5DIc="
 
-export const newContextBody={
+export const newContextBody= {
   "action": "on_search",
   "city": "std:0671",
   "country": "IND",
   "domain": "ONDC:RET11",
-  "key": "MCowBQYDK2VuAyEAHDklkxxsQN2ubcPVnQYUI/VjgElW07OQecpuzHtfUTE=",
-  "timestamp": "2024-01-11T12:57:31.548Z",
+  "key": "FVuf9CA8/DzmUiJTsCQtQijYCnKdN1Pu2rebM7h5DIc=",
+  "timestamp": "2024-01-16T10:57:29.783Z",
   "ttl": "PT30S",
   "bap_id": "ref-app-buyer-staging-v2.ondc.org",
   "bap_uri": "https://ref-app-buyer-staging-v2.ondc.org/protocol/v1",
@@ -798,7 +798,7 @@ export const exportmessageheadervalid={
                                   "1900"
                               ]
                           },
-                          "timestamp": "2024-01-11T12:57:33.587Z"
+                          "timestamp": "2024-01-16T10:57:32.462Z"
                       },
                       "category_id": "F&B",
                       "fulfillment_id": "1",
@@ -899,7 +899,7 @@ export const exportmessageheadervalid={
                                   "1900"
                               ]
                           },
-                          "timestamp": "2024-01-11T12:57:33.588Z"
+                          "timestamp": "2024-01-16T10:57:32.468Z"
                       },
                       "category_id": "F&B",
                       "fulfillment_id": "1",
@@ -944,7 +944,7 @@ export const exportmessageheadervalid={
                           "schedule": {
                               "holidays": []
                           },
-                          "timestamp": "2024-01-11T12:57:33.538Z"
+                          "timestamp": "2024-01-16T10:57:32.075Z"
                       }
                   }
               ],
@@ -985,7 +985,7 @@ export const exportmessageheadervalid={
                   "schedule": {
                       "holidays": []
                   },
-                  "timestamp": "2024-01-11T12:57:31.548Z"
+                  "timestamp": "2024-01-16T10:57:29.783Z"
               },
               "ttl": "PT30S",
               "@ondc/org/fssai_license_no": "11023586536808"

@@ -41,8 +41,8 @@ export interface IsSignatureValid {
 export interface ICreateAuthorizationHeader {
   body: GenericObject;
   privateKey: string;
-  // bapId: string;
-  // bapUniqueKeyId: string;
+  bapId: string;
+  bapUniqueKeyId: string;
   expires?: string;
   created?: string;
   subscriberId:string;
